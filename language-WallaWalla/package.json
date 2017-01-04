@@ -1,0 +1,17 @@
+{
+  "name": "language-WallaWalla",
+  "version": "0.0.0",
+  "description": "WallaWalla language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xideum/language-WallaWalla.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xideum/language-WallaWalla/issues"
+  },
+  "license": "Apache 2.0"
+}
